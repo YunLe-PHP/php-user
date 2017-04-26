@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">hello word</div>
+                <div class="title">何萧 吃屎！</div>
             </div>
         </div>
     </body>
